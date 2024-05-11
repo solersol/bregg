@@ -585,7 +585,7 @@ p {
 }
 
 .banner-txt h3 {
-    font-size: 39px;
+    font-size: 46px;
     font-family: pb;
     color: #ffffff;
     line-height: 55px;
@@ -593,10 +593,10 @@ p {
     padding-top: 16px;
 }
 .banner-txt h2{
-    font-size: 31px;
+    font-size: 38px;
     font-family: pb;
     color: #ffffff;
-    line-height: 75px;
+    line-height: 55px;
     padding-bottom: 23px;
     padding-top: 16px;
 }
