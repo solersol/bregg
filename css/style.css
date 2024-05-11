@@ -105,17 +105,17 @@ p {
 
 
 @font-face {
-    src: url(../fonts/font.ttf);
+    src: url(../fonts/Font.ttf);
     font-family: pb;
 }
 
 @font-face {
-    src: url(../fonts/font.ttf);
+    src: url(../fonts/Font.ttf);
     font-family: pr;
 }
 
 @font-face {
-    src: url(../fonts/font.ttf);
+    src: url(../fonts/Font.ttf);
     font-family: pl;
 }
 
@@ -615,7 +615,7 @@ p {
 
 .banner-txt a {
     padding: 14px 20px;
-    background: #93437b;
+    background: #8de6ff;
     color: black;
     font-family: pb;
     font-size: 18px;
@@ -633,7 +633,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #93437b;
+    background: #8de6ff;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
